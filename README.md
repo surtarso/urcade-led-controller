@@ -1,5 +1,5 @@
 # URCade LED Controller
-URCade's emulator based arcade button led controller with Arduino.
+URCade's *emulator based* arcade button *led controller* with Arduino.
 
 Check [URCade](https://urcade-files.ddns.net) project if you want to use our own pre-configured daemon.
 
